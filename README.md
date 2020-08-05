@@ -36,6 +36,8 @@
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" title="GitHub" />
 
+<br />
+
 ### Exploring / Explored:
 
 <img align="left" width="26px" src="https://i.imgur.com/zQvqYuS.png" title="C#" />
