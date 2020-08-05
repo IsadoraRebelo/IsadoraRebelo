@@ -47,6 +47,7 @@
 <img align="left" width="26px" src="https://i.imgur.com/JiM5E4P.png" title="Python" />
 
 <br />
-<br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsadoraRebelo)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github.com/IsadoraRebelo/github-readme-stats" />
