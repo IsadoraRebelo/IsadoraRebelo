@@ -1,4 +1,4 @@
-### Hi there I'm Isadora but you can call me only Isa 👋
+## Hi there I'm Isadora but you can call me only Isa 👋
 
 - 🔭 I’m currently doing my internship with Selego working in React JS, NodeJS, and MongoDB.
 - 🌱 I’m currently working on two personal projects, both with React JS.
@@ -6,16 +6,10 @@
 
 ### Connect with me:
 
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://isadoraportfolio.netlify.app/
+[instagram]: https://www.instagram.com/isadorarebelo/
+[linkedin]: https://www.linkedin.com/in/isadorarebelo/
+[spotify]: https://open.spotify.com/user/bn0wn1un4q8volg9inda622rv?si=a0zyDDf2SqWcVzalf2oM7A
 
 <!--
 **IsadoraRebelo/IsadoraRebelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
