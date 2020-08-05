@@ -50,4 +50,6 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github.com/IsadoraRebelo/github-readme-stats" />
+[![Isadora's github stats](https://github-readme-stats.vercel.app/api?username=IsadoraRebelo)](https://github.com/IsadoraRebelo/github-readme-stats)
+
+
