@@ -50,6 +50,6 @@
 
 ---
 
-[![Isadora's github stats](https://github-readme-stats.vercel.app/api?username=IsadoraRebelo)](https://github.com/IsadoraRebelo/github-readme-stats)
+[![Isadora's github stats](https://github-readme-stats.vercel.app/api?username=IsadoraRebelo&show_icons=true&theme=dark)](https://github.com/IsadoraRebelo/github-readme-stats)
 
 
