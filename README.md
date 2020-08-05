@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm Isadora but you can call me only Isa 👋
+
+- 🔭 I’m currently doing my internship with Selego working in React JS, NodeJS, and MongoDB.
+- 🌱 I’m currently working on two personal projects, both with React JS.
+- ⚡ Fun fact: Tv show addicted, 🦁 Lannister and 🐍 Slytherin for the win. 
+
 
 <!--
 **IsadoraRebelo/IsadoraRebelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
