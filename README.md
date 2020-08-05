@@ -50,4 +50,4 @@
 
 ---
 
-<img align="left" alt="Isa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsadoraRebelo&show_icons=true&theme=dark" />
+<img align="center" alt="Isa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsadoraRebelo&show_icons=true&theme=dark" />
