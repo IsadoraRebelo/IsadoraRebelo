@@ -50,4 +50,4 @@
 
 ---
 
-[![Isadora's github stats](https://github-readme-stats.vercel.app/api?username=IsadoraRebelo&show_icons=true&theme=dark)](https://github.com/IsadoraRebelo/github-readme-stats)
+<img align="left" alt="Isa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsadoraRebelo&show_icons=true&theme=dark" />
