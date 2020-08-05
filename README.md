@@ -36,6 +36,14 @@
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" title="GitHub" />
 
+### Exploring / Explored:
+
+<img align="left" width="26px" src="https://i.imgur.com/zQvqYuS.png" title="C# />
+
+<img align="left" width="26px" src="https://i.imgur.com/oQPpTSM.png" title="Unity />
+
+<img align="left" width="26px" src="https://i.imgur.com/JiM5E4P.png" title="Python />
+
 <!--
 **IsadoraRebelo/IsadoraRebelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
