@@ -50,6 +50,9 @@
 
 ---
 
+<img align="left" alt="Isadora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsadoraRebelo&show_icons=true&theme=dark" />
+
+
 [![Isadora's github stats](https://github-readme-stats.vercel.app/api?username=IsadoraRebelo&show_icons=true&theme=dark)](https://github.com/IsadoraRebelo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraRebelo&layout=compact)](https://github.com/IsadoraRebelo/github-readme-stats)
