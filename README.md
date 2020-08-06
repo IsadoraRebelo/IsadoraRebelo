@@ -1,4 +1,4 @@
-## Hi there I'm Isadora but you can call me only Isa 👋
+## Hi there I'm Isadora, but you can just call me Isa 👋
 
 - 🔭 I’m currently doing my internship with Selego working in React JS, NodeJS, and MongoDB.
 - 🌱 I’m currently working on two personal projects, both with React JS.
